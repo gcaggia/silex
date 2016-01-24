@@ -1,0 +1,12 @@
+{
+    "name": "guillaume/silex",
+    "require": {
+        "silex/silex": "^1.3"
+    },
+    "authors": [
+        {
+            "name": "Guillaume Caggia",
+            "email": "guillaume.caggia@gmail.com"
+        }
+    ]
+}
